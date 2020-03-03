@@ -22,3 +22,9 @@ img {
 nav, figcaption {
   text-align: center;
 }
+
+#featured-property p {
+  width: 800px;
+  text-align: center;
+  margin: 0 auto;
+}
